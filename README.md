@@ -17,11 +17,10 @@ Our user interface is designed with simplicity in mind. Customers can effortless
 Keep tabs on your orders with our order tracking feature. Know the status of your order, whether it's pending, shipped, or delivered.
 
 # Technologies Used:
-.NET Framework: Our website is powered by the robust .NET Framework, providing scalability and performance to meet your e-commerce needs.
 
 ASP.NET MVC: The website is developed using ASP.NET MVC, ensuring a modular and maintainable codebase.
 
-Entity Framework: We employ Entity Framework for efficient database management and data manipulation.
+EF Core 6: We employ Entity Framework for efficient database management and data manipulation.
 
 HTML, CSS, and JavaScript: Modern frontend technologies ensure an engaging and responsive user experience.
 
